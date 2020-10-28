@@ -1,2 +1,2 @@
 include(":app")
-rootProject.name = "TEMPLATE"
+rootProject.name = "MediatorAppExample"

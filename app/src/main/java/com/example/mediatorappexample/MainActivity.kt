@@ -1,4 +1,4 @@
-package com.example.template
+package com.example.mediatorappexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

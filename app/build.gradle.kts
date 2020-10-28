@@ -14,7 +14,7 @@ android {
     kotlinOptions.jvmTarget = JavaVersion.VERSION_1_8.toString()
 
     defaultConfig {
-        applicationId = "com.example.template"
+        applicationId = "com.example.mediatorappexample"
         minSdkVersion(26)
         targetSdkVersion(30)
         versionCode = 1

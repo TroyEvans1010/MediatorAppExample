@@ -1,4 +1,4 @@
-package com.example.template
+package com.example.mediatorappexample
 
 import org.junit.Test
 
