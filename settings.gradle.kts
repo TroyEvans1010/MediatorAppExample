@@ -1,2 +1,2 @@
-include(":app")
+include(":MediatorAppExampleApp")
 rootProject.name = "MediatorAppExample"
