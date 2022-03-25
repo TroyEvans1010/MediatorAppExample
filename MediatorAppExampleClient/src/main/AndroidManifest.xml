@@ -5,8 +5,12 @@
     <!-- Maybe required for Android 11 -->
     <queries>
         <package android:name="com.example.mediatorappexampleapp" />
+
         <intent>
-            <action android:name="com.example.mediatorappexampleapp.RemoteService"/>
+            <action android:name="com.example.mediatorappexampleapp.RemoteService" />
+        </intent>
+        <intent>
+            <action android:name="com.example.mediatorappexampleapp.RemoteServiceWithResponse" />
         </intent>
     </queries>
 

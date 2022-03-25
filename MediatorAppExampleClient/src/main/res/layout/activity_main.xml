@@ -22,4 +22,10 @@
         android:layout_height="wrap_content"
         android:text="Use RemoteService to calculate square root" />
 
+    <TextView
+        android:id="@+id/tv_response"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="So far, no response from RemoteServiceWithResponse" />
+
 </LinearLayout>
