@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
                 try {
                     remoteService!!
                 } catch (e: NullPointerException) {
-                    toast("Remote Service is not yet bound")
+                    toast("Remote Service is not yet bound. Try installing the service application.")
                     return@setOnClickListener
                 }
             // # Use RemoteService
